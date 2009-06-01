@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = %q{bj-utc}
+  s.name = %q{bj_utc}
   s.version = "1.0.1"
  
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
